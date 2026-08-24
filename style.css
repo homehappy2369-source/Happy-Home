@@ -21,7 +21,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #333333; /* Warna tulisan yang tadi kita ubah */
+    color: #ffffff; /* Warna tulisan yang tadi kita ubah */
     padding: 20px;
 }
 }
@@ -105,7 +105,7 @@ footer {
 .share-btn {
     background: none;
     border: none;
-    color: #000000;
+    color: #ffffff;
     font-family: inherit;
     font-size: 0.9rem;
     font-weight: 600;
