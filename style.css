@@ -9,14 +9,21 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    /* Background warna gradasi (bisa diganti sesuai warna branding) */
-    background: linear-gradient(135deg, #FFE743 0%, #FFE749 100%);
+    
+    /* Ini kode baru untuk background foto */
+    background-image: url('fototoko.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #000000;
+    color: #333333; /* Warna tulisan yang tadi kita ubah */
     padding: 20px;
+}
 }
 
 .container {
