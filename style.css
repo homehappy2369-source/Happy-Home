@@ -11,7 +11,7 @@ body {
     font-family: 'Inter', sans-serif;
     
     /* Menambahkan lapisan hitam transparan di atas foto */
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('fototoko.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('fototoko2.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
