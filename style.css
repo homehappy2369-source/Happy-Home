@@ -15,7 +15,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #ffffff;
+    color: #000000;
     padding: 20px;
 }
 
@@ -98,7 +98,7 @@ footer {
 .share-btn {
     background: none;
     border: none;
-    color: #ffffff;
+    color: #000000;
     font-family: inherit;
     font-size: 0.9rem;
     font-weight: 600;
