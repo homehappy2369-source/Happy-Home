@@ -10,8 +10,8 @@
 body {
     font-family: 'Inter', sans-serif;
     
-    /* Ini kode baru untuk background foto */
-    background-image: url('fototoko2.jpeg');
+    /* Menambahkan lapisan hitam transparan di atas foto */
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('fototoko.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -21,7 +21,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #ffffff; /* Warna tulisan yang tadi kita ubah */
+    
+    /* Kalau pakai opsi ini, warna tulisan ubah lagi jadi putih biar kontras */
+    color: #ffffff; 
     padding: 20px;
 }
 }
